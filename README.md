@@ -64,4 +64,4 @@ by.might.BankOperation{date_day=10, date_month=1, date_year=2022, time_hour=18, 
 by.might.BankOperation{date_day=14, date_month=1, date_year=2022, time_hour=18, time_min=1, time_second=2, type='REMOVE', account='BYBANK3535351314', amount=0.0, description='CreditPayment_part17'}
 by.might.BankOperation{date_day=14, date_month=1, date_year=2022, time_hour=18, time_min=1, time_second=2, type='REMOVE', account='BYBANK3535354', amount=0.0, description='CreditPayment_part16'}
 Passed sort test 2 2
-Условие задания 7 варианта выполнено
+Условие задания 7 варианта выполнено 
